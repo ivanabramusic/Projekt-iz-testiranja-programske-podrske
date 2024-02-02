@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AllTestsSuite">
+    <test name="My First Selenium TestNG Test">
+        <classes>
+            <class name="CheckRank"/>
+            <class name="HighestWinrate"/>
+            <class name="MostPlayableChamp"/>
+            <class name="BestPlayerEUNE"/>
+            <class name="BuildForChamp"/>
+            <class name="ChallengerPlayersEUNE"/>
+            <class name="CheckLiveGame"/>
+            <class name="MostPlayableChamp"/>
+        </classes>
+    </test>
+</suite>
